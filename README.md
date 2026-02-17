@@ -53,5 +53,3 @@ Construir un sistema ERP modular que permita a los usuarios gestionar compras, i
 
 ---
 
-##  Arquitectura
-
