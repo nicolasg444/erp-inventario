@@ -1,17 +1,17 @@
-# 🏢 Proyecto ERP — Taller Aplicado Scrum
+#  Proyecto ERP — Taller Aplicado Scrum
 
 > Módulos: **Inventario · Compras · Facturación · RR.HH.**
 > Herramientas: Notion · Figma · GitHub Projects
 
 ---
 
-## 📌 Visión del Proyecto
+##  Visión del Proyecto
 
 Construir un sistema ERP modular que permita a los usuarios gestionar compras, inventario, facturación y recursos humanos de forma integrada, trazable y con entregas incrementales mediante metodología Scrum.
 
 ---
 
-## 👥 Equipo
+##  Equipo
 
 | Rol | Responsable |
 |-----|-------------|
@@ -23,7 +23,7 @@ Construir un sistema ERP modular que permita a los usuarios gestionar compras, i
 
 ---
 
-## 📦 Módulos del ERP
+##  Módulos del ERP
 
 | Módulo | Épica principal | Estado |
 |--------|----------------|--------|
@@ -34,28 +34,8 @@ Construir un sistema ERP modular que permita a los usuarios gestionar compras, i
 
 ---
 
-## 🗂️ Estructura del Repositorio
 
-```
-/
-├── docs/              # Documentación técnica y de proceso
-│   ├── vision.md
-│   ├── personas.md
-│   ├── ADR/           # Architecture Decision Records
-│   └── trazabilidad.md
-├── design/            # Archivos de diseño
-│   └── figma-links.md
-├── diagrams/          # Diagramas PlantUML
-│   ├── contexto.puml
-│   ├── componentes.puml
-│   └── secuencias/
-├── src/               # Código fuente
-└── tests/             # Pruebas unitarias y funcionales
-```
-
----
-
-## 📋 Backlog y Gestión
+##  Backlog y Gestión
 
 - 📊 **Tablero Notion:** _(enlace al tablero)_
 - 🗃️ **GitHub Projects:** _(enlace al proyecto)_
@@ -73,7 +53,7 @@ Construir un sistema ERP modular que permita a los usuarios gestionar compras, i
 
 ---
 
-## 🎨 Diseño UX/UI
+##  Diseño UX/UI
 
 - **Figma (Wireframes low-fi):** _(enlace a Figma)_
 - Pantallas cubiertas en Sesión 2:
@@ -84,7 +64,7 @@ Construir un sistema ERP modular que permita a los usuarios gestionar compras, i
 
 ---
 
-## 🏗️ Arquitectura
+##  Arquitectura
 
 ### Diagramas PlantUML disponibles
 
@@ -106,7 +86,7 @@ Construir un sistema ERP modular que permita a los usuarios gestionar compras, i
 
 ---
 
-## ✅ Definition of Ready (DoR)
+##  Definition of Ready (DoR)
 
 Una historia está lista para el sprint si cumple:
 
@@ -119,7 +99,7 @@ Una historia está lista para el sprint si cumple:
 
 ---
 
-## ✅ Definition of Done (DoD)
+##  Definition of Done (DoD)
 
 Una historia está terminada si cumple:
 
@@ -132,26 +112,6 @@ Una historia está terminada si cumple:
 
 ---
 
-## 🌿 Flujo Git
-
-```
-main          ← rama estable (solo merges aprobados)
-dev           ← integración continua
-feature/MOD-XX-descripcion  ← ramas por historia
-```
-
-### Convención de commits
-
-```
-feat|fix|docs|refactor: descripción breve (MOD-XX)
-```
-
-**Ejemplos:**
-```
-feat: agregar formulario de entrada de stock (INV-02)
-fix: validar stock suficiente antes de salida (INV-03)
-docs: actualizar diagrama de secuencia compras (COM-01)
-```
 
 ### Checklist de PR
 
@@ -177,7 +137,7 @@ docs: actualizar diagrama de secuencia compras (COM-01)
 
 ---
 
-## 📊 Métricas del Sprint
+##  Métricas del Sprint
 
 > Se actualizan al cierre de cada sprint.
 
@@ -188,17 +148,4 @@ docs: actualizar diagrama de secuencia compras (COM-01)
 
 ---
 
-## 🔗 Enlaces Rápidos
 
-| Recurso | Enlace |
-|---------|--------|
-| Tablero Notion | _(enlace)_ |
-| GitHub Projects | _(enlace)_ |
-| Figma (wireframes) | _(enlace)_ |
-| PlantUML (diagramas) | _(enlace)_ |
-| Wiki DoR | _(enlace)_ |
-| Wiki DoD | _(enlace)_ |
-
----
-
-*Última actualización: Sesión 2 — Arquitectura y UX inicial*
