@@ -11,15 +11,7 @@ Construir un sistema ERP modular que permita a los usuarios gestionar compras, i
 
 ---
 
-##  Equipo
 
-| Rol | Responsable |
-|-----|-------------|
-| Product Owner (PO) | _(nombre)_ |
-| Scrum Master (SM) | _(nombre)_ |
-| Developer / UX | _(nombre)_ |
-| Developer / QA | _(nombre)_ |
-| Developer | _(nombre)_ |
 
 ---
 
@@ -66,13 +58,6 @@ Construir un sistema ERP modular que permita a los usuarios gestionar compras, i
 
 ##  Arquitectura
 
-### Diagramas PlantUML disponibles
-
-| Diagrama | Archivo | Descripción |
-|----------|---------|-------------|
-| Contexto del sistema | `diagrams/contexto.puml` | Actores externos, ERP core, DB, servicios |
-| Componentes | `diagrams/componentes.puml` | UI, API, dominio, persistencia, integración |
-| Secuencias (por módulo) | `diagrams/secuencias/` | Flujos con validaciones y errores |
 
 ### Architecture Decision Records (ADR)
 
