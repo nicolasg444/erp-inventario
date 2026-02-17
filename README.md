@@ -11,17 +11,6 @@ Construir un sistema ERP modular que permita a los usuarios gestionar compras, i
 
 ---
 
-##  Equipo
-
-| Rol | Responsable |
-|-----|-------------|
-| Product Owner (PO) | _(nombre)_ |
-| Scrum Master (SM) | _(nombre)_ |
-| Developer / UX | _(nombre)_ |
-| Developer / QA | _(nombre)_ |
-| Developer | _(nombre)_ |
-
----
 
 ##  Módulos del ERP
 
@@ -148,12 +137,12 @@ docs: actualizar diagrama de secuencia compras (COM-01)
 
 | Sesión | Enfoque | Estado |
 |--------|---------|--------|
-| 1 | Kickoff, visión, backlog inicial | ✅ Completada |
-| 2 | Arquitectura y UX inicial | 🔄 En curso |
-| 3 | Sprint Planning 1 + ejecución | ⏳ Pendiente |
-| 4 | Daily coaching + diseño detallado | ⏳ Pendiente |
-| 5 | Review + Retro 1 + Planning 2 | ⏳ Pendiente |
-| 6 | Ejecución Sprint 2 + Demo final | ⏳ Pendiente |
+| 1 | Kickoff, visión, backlog inicial |  Completada |
+| 2 | Arquitectura y UX inicial |  En curso |
+| 3 | Sprint Planning 1 + ejecución |  Pendiente |
+| 4 | Daily coaching + diseño detallado |  Pendiente |
+| 5 | Review + Retro 1 + Planning 2 |  Pendiente |
+| 6 | Ejecución Sprint 2 + Demo final |  Pendiente |
 
 ---
 
